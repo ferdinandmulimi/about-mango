@@ -1,0 +1,16 @@
+img {
+    width: 30%;
+    float: left;
+}
+.sidebar {
+    width: 350px;
+    margin: 10px;
+    float: right;
+    background-color: yellow;
+}
+.main {
+    width: 350px;
+    margin: 10px;
+    float: right;
+    background-color: yellow;
+}
